@@ -1,6 +1,5 @@
 - Cameron McClure-Coleman
 - Computer Science Student at Cal Poly SLO
-<!--- Cal Poly Space Systems Avionics Team Lead --->
 - ITS support specialist
 
 <!---

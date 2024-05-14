@@ -1,6 +1,6 @@
 - Cameron McClure-Coleman
 - Computer Science Student at Cal Poly SLO
-- Flyback Booster Project Manager at Cal Poly Space Systems
+- President of Cal Poly Space Systems, former Flyback Booster Project Manager and Competition Project Avionics Lead
 - Cal Poly ITS client services technician
 
 <!---

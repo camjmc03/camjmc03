@@ -1,5 +1,6 @@
 - Cameron McClure-Coleman
-- Computer Science Student at Cal Poly SLO
+- B.S. Computer Science at Cal Poly SLO, class of 2025
+- United Launch Alliance Embedded Software Engineer
 - President of Cal Poly Space Systems, former Flyback Booster Project Manager, former Competition Project Avionics Lead
 - Cal Poly ITS client services technician
 
